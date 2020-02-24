@@ -13,13 +13,24 @@
   * C++:
     * float: 4 bajty = 32 bitů => 1 znaménko, 23 mantisa, 1+7 exponent
     * double: 8 bajtů = 64 bitů => 1 znaménko, 52 mantisa, 1+10 exponent
-
+  * Strojové epsilon
+    * Interval mezi čísly 1 a 2 je vždy rovnoměrný -> krok označíme jako strojové epsilon
+    * [Prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/strojove_epsilon.cpp)
 
 Online překladač C++ [zde.](https://www.tutorialspoint.com/compile_cpp11_online.php)
 
+# Chyby v numerice
+
+* Chyba vstupních dat - pozor na špatně podmíněné úlohy!
+* Chyba metody
+* Zaokrouhlovací chyba
+
+![GitHub Logo](/chyba.gif)
+Format: ![Alt Text](url)
+
 Dokument pro zopakování: https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/teorie_chyby.pdf
 
-# Chyby v numerice
+
 
 
 # Oprava příkladů z domácího cvičení
