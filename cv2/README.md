@@ -4,9 +4,9 @@
     * short: 2 bajty = 16 bitů => <-32768, 32767>
     * int: 4 bajty = 32 bitů => <-2^(31), 2^(31)-1>
   * Přetečení: [prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/preteceni.cpp)
-    
+
 * Čísla s desetinnou čárkou
- * uložena jako: s x m x 2^(e) (dvojková soustava!)
+ * Uložena jako: s x m x 2^(e) (dvojková soustava!)
   * s - znaménko
   * m - mantisa ... určuje přesnost čísla
   * e - exponent ... určuje rozsah čísla (i zde je znaménko na začátku exponentu)
