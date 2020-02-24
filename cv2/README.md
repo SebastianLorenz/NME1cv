@@ -32,5 +32,5 @@ Dokument pro zopakování: https://github.com/SebastianLorenz/NME1cv/blob/master
 
 
 
-# Oprava příkladů z domácího cvičení
+# Oprava příkladů z domácího cvičení na Matlab
 
