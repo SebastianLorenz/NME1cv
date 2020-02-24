@@ -10,7 +10,7 @@
   * s - znaménko
   * m - mantisa ... určuje přesnost čísla
   * e - exponent ... určuje rozsah čísla (i zde je znaménko na začátku exponentu)
- * C++:
+* C++:
   * float: 4 bajty = 32 bitů => 1 znaménko, 23 mantisa, 1+7 exponent
   * double: 8 bajtů = 64 bitů => 1 znaménko, 52 mantisa, 1+10 exponent
 
