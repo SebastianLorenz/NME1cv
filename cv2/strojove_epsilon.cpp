@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
     long double cislo, eps;    // Zmente typ na double, pripadne long double
-    cislo = 1;           // Absolutni hodnota epsilon je ruzna pro ruzna cisla
+    cislo = 1;
     eps   = 0.1 * cislo; // Pocatecni odhad epsilon
 
     // Zmensujeme eps, dokud po jeho pricteni ke vstupnimu cislu dostavame vetsi cislo
