@@ -17,6 +17,5 @@
 
 Úkol: napište program na zpětný běh
 
-* LU dekompozice
- * teorie:
- * program:
+* LU dekompozice: teorie [zde](https://github.com/SebastianLorenz/NME1cv/blob/master/cv3/teorie_LU_dekompozice.pdf), program zde
+* Soustava s tridiagonalni matici: teorie zde, program zde
