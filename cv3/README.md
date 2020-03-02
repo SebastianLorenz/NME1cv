@@ -9,7 +9,7 @@
 
 * přímé metody - úprava matice na horní trojúhelníkový tvar -> pak řešení soustavy s horní trojúhelníkovou maticí
 
-* Gaussova eliminace - přímý běh - teorie zde: ...
+* Gaussova eliminace - přímý běh - teorie [zde](https://github.com/SebastianLorenz/NME1cv/blob/master/cv3/Gaussova%20a%20Gauss-Jordanova%20eliminace.pdf)
 
 Úkol: napište program na Gaussovu eliminaci
 
