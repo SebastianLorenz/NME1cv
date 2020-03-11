@@ -1,0 +1,5 @@
+# Lagrangeova interpolace
+
+
+# Aproximace derivace
+
