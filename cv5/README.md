@@ -1,14 +1,15 @@
 # Interpolace celé funkce
 Lagrangeova interpolace
-* text
-* prográmek
+* [text](priklad_Lagrangeova_interpolace.pdf)
+* [prográmek](lagrange.m)
 
 # Interpolace části funkce (lokální interpolace)
 Kubický spline
-* text
-* prográmek
+* [text](teorie_kubicky_spline.pdf)
+* [prográmek](kubspline.m)
+* vstupní [data](spline.dat.txt)
 
 # Aproximace derivace
 Konečné diference
-* text
-* prográmek
+* [text](priklad_aproximace_derivaci.pdf)
+* [prográmek](derivace.m)
