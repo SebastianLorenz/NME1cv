@@ -7,5 +7,6 @@ Opakování k iteračním metodám [zde](https://github.com/SebastianLorenz/NME1
 4 metody:
 * Metoda prosté iterace
 * Jacobiho metoda - skript s implementací [zde](jacobi.m)
-* Gauss-Seidelova metoda
+* Gauss-Seidelova metoda - skript s implementací [zde](gausseidel.m)
 * Superrelaxační metoda
+- Skript pro porovnání rychlosti těchto 4 metod [zde](porovnani.m)
