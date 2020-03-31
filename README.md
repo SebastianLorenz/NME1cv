@@ -25,6 +25,7 @@ Vše, co probereme my na cvičení, bude tady na GitHubu.
 
 # Distanční výuka
 * přednášky jsou postupně zveřejňovány [zde](http://kfe.fjfi.cvut.cz/~nme/)
+
 Vzhledem k opatřením kvůli Koronaviru to vypadá, že až do konce semestru bude probíhat výuka distančně. Od 6. cvičení až do odvolání bude probíhat výuka v následující formě:
 * Materiály ke cvičení + pokyny budou publikovány vždy nejpozději před začátkem formálního cvičení (tedy út 9:30)
   * Většinou půjde o nastudování textu + nastudování kódu (poctivě okomentovaného)
