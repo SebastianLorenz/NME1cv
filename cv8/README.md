@@ -1,7 +1,7 @@
 # Třídící algoritmy
 * Už jste je pravděpodobně brali na Základech algoritmizace
 * Ještě je budete brát (např. v předmětu Paralelní algoritmy a architektury)
-* Prosím porčtěte si [text přednášky](http://kfe.fjfi.cvut.cz/~limpouch/numet/sort.pdf) a [tento](https://en.wikipedia.org/wiki/Sorting_algorithm) (;-)) studijní text, zaměřte se na algoritmy: Insert Sort, Bubble Sort, Select Sort, Shell Sort, Quick Sort a Heap Sort.
+* Prosím porčtěte si [text přednášky](http://kfe.fjfi.cvut.cz/~limpouch/numet/sort.pdf) a [tento](https://en.wikipedia.org/wiki/Sorting_algorithm) ;-) studijní text, zaměřte se na algoritmy: Insert Sort, Bubble Sort, Select Sort, Shell Sort, Quick Sort a Heap Sort.
 * Metoda přímého výběru v Matlabu [zde](primyvyber.m)
 * Quicksort [zde](quicksort.m)
 * Srovnání třídících algoritmů na různých příkladech dat [tady](https://www.toptal.com/developers/sorting-algorithms)
