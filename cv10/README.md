@@ -6,13 +6,15 @@ a) Převedení na ODE
 b) Integrace aproximované funkce
 
 c) Kvadraturní vzorce (možné zpřesnění pomocí Rombergovy metody)
-* Odvození kvadraturních formulí pomocí Lagrangeova polynomu [zde](odvozeni_integrace_Lagrange.pdf)
-* Odvození kvadraturních formulí metodou neurčitých koeficientů [zde](odvozeni_integrace_neurckoef.pdf)
+* Mrkněte na kapitoly Obdélníkové pravidlo, Lichoběžníkové pravidlo a Simpsonova metoda ve [skriptech](numint_skriptum.pdf)
+* Užitečné ke zkoušce: 
+  * Odvození kvadraturních formulí pomocí Lagrangeova polynomu [zde](odvozeni_integrace_Lagrange.pdf)
+  * Odvození kvadraturních formulí metodou neurčitých koeficientů [zde](odvozeni_integrace_neurckoef.pdf)
 * [Program](nintegral.m) na porovnání Obdélníkového, Lichoběžníkového pravidla a Simpsonovy metody - zkuste integrovat různé funkce a pohrajte si s počtem kroků
 * Pro zájemce: Rombergova metoda - [text](teorie_Rombergova_metoda.pdf), [program](romberg.m)
 
 d) Gaussovy kvadratury
-* [Příklad](gaussint.m) implementace
+* Pro zájemce: [Příklad](gaussint.m) implementace Gaussových kvadratur, teorie viz. [skripta](numint_skriptum.pdf)
 
 e) Metoda Monte Carlo
 * Teorie k metodě [zde](teorie_MC.pdf)
