@@ -9,7 +9,7 @@ Projděte si následující skripty:
   * C++:
     * short: 2 bajty = 16 bitů => <-32768, 32767>
     * int: 4 bajty = 32 bitů => <-2^(31), 2^(31)-1>
-  * Přetečení: [prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/preteceni.cpp)
+  * [Prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/preteceni.cpp) demonstrující přetečení proměnné typu short.
   
 * Čísla s desetinnou čárkou
   * Uložena jako: s x m x 2^(e) (dvojková soustava!)
@@ -21,13 +21,13 @@ Projděte si následující skripty:
     * double: 8 bajtů = 64 bitů => 1 znaménko, 52 mantisa, 1+10 exponent
   * Strojové epsilon
     * Interval mezi čísly 1 a 2 je vždy rovnoměrný -> krok označíme jako strojové epsilon
-    * [Prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/strojove_epsilon.cpp)
-   
+  * [Prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/strojove_epsilon.cpp), který počítá odhad stojového epsilon.
+
+
 * Chyba vstupních dat - pozor na špatně podmíněné úlohy!
-* Chyba metody - [prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/chyba_metody.m)
-* Zaokrouhlovací chyba
+* Chyba metody - [Prográmek](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/chyba_metody.m), který vizualizuje chybu metody při numerickém výpočtu derivace metodami 1. a 2. řádu.
+* Zaokrouhlovací chyba - graf, na který se často ptají u zkoušky:
 
 ![alt text](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/chyba.gif)
 
-Dokument pro zopakování: https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/teorie_chyby.pdf
 
