@@ -1,4 +1,7 @@
-# Čísla v počítači
+# 2. cvičení NME1 - Čísla v počítači
+
+* Nastudujte si dokument: teorie_chyby.pdf.
+
 * Celá čísla
   * C++:
     * short: 2 bajty = 16 bitů => <-32768, 32767>
@@ -28,9 +31,4 @@ Online překladač C++ [zde.](https://www.tutorialspoint.com/compile_cpp11_onlin
 ![alt text](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/chyba.gif)
 
 Dokument pro zopakování: https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/teorie_chyby.pdf
-
-
-
-
-# Oprava příkladů z domácího cvičení na Matlab
 
