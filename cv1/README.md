@@ -1,4 +1,4 @@
-# O1. cvičení NME1:
+# 1. cvičení NME1:
 * Úvod a požadavky k zápočtu - zveřejněny zde: https://github.com/SebastianLorenz/NME1cv a viz. úvodní videohovor
 * Praktický úvod do MATLABu
   * Stádněte si a nainstalujte MATLAB (https://download.cvut.cz)
