@@ -1,6 +1,7 @@
 # 2. cvičení NME1 - Čísla v počítači
 
-* Nastudujte si dokument: teorie_chyby.pdf.
+* Nastudujte si dokument: [Opakovani_teorie_chyby](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/teorie_chyby.pdf).
+* V tomto cvičení budeme výjimečně pro demonstraci používat programovací jazyk C++. Skripty si můžete spustit například v [online překladači](https://www.tutorialspoint.com/compile_cpp11_online.php).
 
 * Celá čísla
   * C++:
