@@ -30,4 +30,5 @@ Projděte si následující skripty:
 
 ![alt text](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/chyba.gif)
 
-
+Domácí úkol do 4.3.2021:
+...
