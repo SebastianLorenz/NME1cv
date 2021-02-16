@@ -46,7 +46,7 @@ Distanční výuka bude probíhat v následující podobě:
 * Konzultace
   * Konzultace budou probíhat v Teams v čase cvičení (út 15:30) - na konzultaci je možno ptát se na otázky k pokynům ke cvičení a konzultovat vypracování domácího úkolu z minulého týdne
   * Kdyby jste měli jakékoliv dotazy i jindy během vypracovávání úkolů tak mi klidně napište mail kdykoliv. Zkusím poradit po mailu, nebo můžem udělat individuální konzultaci.
-  * První 2-3 cvičení bude účast na konzultacích-videohovorech povinná. Pokud budete správně plnit domácí úkoly, tak pozdější konzultace budou už jen pro přihlášené zájemce.
+  * První 2-3 cvičení bude účast na videohovorech povinná. Pokud budete správně plnit domácí úkoly, tak pozdější cvičení budou sloužit jen jako konzultace pro přihlášené zájemce.
 
 ## Distanční zápočtový úkol
 (pokud nebude zrušena karanténa do konce semestru)
