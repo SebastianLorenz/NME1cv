@@ -2,7 +2,7 @@
 Poznámky, návody a skripty ke cvičením NME1 na FJFI ČVUT v Praze  
 
 Cvičící: Ing. Sebastian Lorenz  
-Kontakt: **sebastianlorenz686@gmail.com** / sebastian.lorenz@eli-beams.eu / lorenseb@fjfi.cvut.cz  
+Kontakt: **sebastian.lorenz@eli-beams.eu** / sebastianlorenz686@gmail.com / lorenseb@fjfi.cvut.cz  
 
 Přednášející: Ing. Pavel Váchal, Ph.D. / prof. Ing. Jiří Limpouch, CSc.  
 http://kfe.fjfi.cvut.cz/~vachal/ , http://www-troja.fjfi.cvut.cz/~limpouch/  
@@ -30,26 +30,22 @@ Vše, co probereme my na cvičení, bude tady na GitHubu.
 Materiály k přednáškám jsou postupně zveřejňovány v MS Teams ve skupině Team-Predmet-B202-12NME1+12NMEA. 
 
 Cvičení (moje skupina) bude probíhat ve skupině Team-B202-12NME1-Lorenz.
+* Kdyby se chtěl někdo přidat k nám do skupiny, nechť se mi ozve na mail.
+* Kdyby chtěl někdo přejít do jiné skupiny - musí si to domluvit s příslušným cvičícím.
+* Přestupy možné pouze v prvním týdnu, v průběhu semestru už to nebude možné.
 
-..........
-
-Výuka bude probíhat v následující formě:
-* Materiály ke cvičení + pokyny budou publikovány vždy nejpozději před začátkem formálního cvičení (tedy út 15:30)
-  * Většinou půjde o nastudování textu + nastudování kódu (poctivě okomentovaného)
+Distanční výuka bude probíhat v následující podobě:
+* Materiály ke cvičení na daný týden a pokyny k nim budou zveřejňovány tady na GitHubu vždy před začátkem cvičení (út 15:30). Budu se ale snažit zveřejnit je už v pondělí večer nebo úterý dopoledne.
+ * Většinou půjde o nastudování textu + nastudování kódu (poctivě okomentovaného)
 * U každého cvičení bude zadán domácí úkol - např. doplnit část kódu, napsat funkci, něco otestovat, ...
-  * Tento úkol je potřeba odevzdat do pátku do večera
+  * Tento úkol je potřeba odevzdat do čtvrtka do večera týdne následujícího 
   * Neodevzdaný úkol bude brán jako absence
   * Kdo bude mít na konci semestru správně a **poctivě** vypracované a včas odevzdané všechny domácí úkoly, tak mu bude odpuštěn finální zápočtový úkol.
+  * Odevzdané úkoly tedy budu hodnotit: poctivě vypracováno / vypracováno / neodevzdáno
+  * Odevzdávejte i částečně nebo špatně vypracované úlohy - sice ztratíte nárok na odpuštění zápočtové úlohy, ale nebudete mít absence.
 * Konzultace
-  * konzultace budou probíhat na Skypu - každý student si založí účet a přidá se do skupinové konverzace
-  * pokud pro danné cvičení nebudete rozumět teorii, kódu, nebo si nebudete vědět rady s domácím úkolem tak se přihlásíte(zpráva na Skypu/mailem) do středy do večera ke konzultaci, která pak proběhne v průběhu čtvrtka (čas dle domluvy)
-  
-Tedy možné scénáře:
-* Chápu teorii, podaří se mi udělat domácí úkol -> odevzdám a nemusím se zajímat o video-konzultace
-* Chápu teorii ale nedaří se mi udělat domácí úkol -> do středy se přihlásím, že bych měl zájem o konzultaci -> ve čtvrtek na konzultaci pochopím jak to udělat -> do pátku do večera odevzdám úkol
-* Nechápu teorii nebo nerozumím kódu -> do středy se přihlásím o konzultaci -> ve čtvrtek pochopím -> do pátku udělám úkol
-* Neprojevím zájem o konzultaci do středečního večera a zároveň do pátku neodevzdám úkol (nebo ho silně odfláknu) -> absence
-* Odevzdávejte i částečně nebo špatně vypracované úlohy - sice ztratíte nárok na odpuštění zápočtové úlohy, ale nebudete mít absence.
+  * Konzultace budou probíhat v Teams v čase cvičení (út 15:30) - na konzultaci je možno ptát se na otázky k pokynům ke cvičení a konzultovat vypracování domácího úkolu z minulého týdne
+  * První 3 cvičení bude účast na konzultacích povinná. Pokud budete správně plnit domácí úkoly, tak pozdější konzultace budou jen pro zájemce.
 
 ## Distanční zápočtový úkol
 (pokud nebude zrušena karanténa do konce semestru)
