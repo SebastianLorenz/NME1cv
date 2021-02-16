@@ -1,4 +1,4 @@
-# 1. cvičení NME1:
+# 1. cvičení NME1 - Úvod do MATLABu
 * Úvod a požadavky k zápočtu - zveřejněny zde: https://github.com/SebastianLorenz/NME1cv a viz. úvodní videohovor
 * Praktický úvod do MATLABu
   * K programování numerických metod na cvičeních budeme používat MATLAB. Je tedy potřeba se v něm naučit pracovat.
