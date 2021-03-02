@@ -26,8 +26,6 @@ Metody řešení soustav lineárních rovnic Ax=b se dělí na:
 * Přečtěte si [teorii](teorie_LU_dekompozice.pdf).
 * Prostudujte si [implemetaci](luDekomp.m).
 
-https://github.com/SebastianLorenz/NME1cv/blob/master/cv3/
-
 Úkol do 11.3.2021:
 * Dnes jsme si ručně implementovali 4 algoritmy. Najděte k nim příslušné zabudované Matlabovské funkce (built-in MATLAB functions).
 * Najděte si, jakými příkazy lze v Matlabu měřit čas běhu funkce. (Hint: tic-toc)
