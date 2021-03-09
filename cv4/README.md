@@ -11,6 +11,7 @@ Na přednášce se probírají a je potřeba znát následující 4 metody:
 * Gauss-Seidelova metoda - skript s implementací [zde](gausseidel.m)
 * Superrelaxační metoda
 * Skript pro porovnání rychlosti těchto 4 metod [zde](porovnani.m)
+
 Skripty si projděte. Kdyby jste něčemu nerozuměli, tak se ptejte.
 
 Úkol do 18.3.2021:
