@@ -1,15 +1,17 @@
+Dnes budeme probírat interpolace funkcí
+
 # Interpolace celé funkce
 Lagrangeova interpolace
-* [text](priklad_Lagrangeova_interpolace.pdf)
-* [prográmek](lagrange.m)
+* Přečtěte si [teorii.](priklad_Lagrangeova_interpolace.pdf)
+* Nastudujte [prográmek.](lagrange.m)
 
 # Interpolace části funkce (lokální interpolace)
 Kubický spline
-* [text](teorie_kubicky_spline.pdf)
-* [prográmek](kubspline.m)
-* vstupní [data](spline.dat.txt)
+* Přečtěte si [teorii.](teorie_kubicky_spline.pdf)
+* Nastudujte [prográmek.](kubspline.m)
+  * Tady jsou k němu [vstupní data.](spline.dat.txt)
 
 # Aproximace derivace
 Konečné diference
-* [text](priklad_aproximace_derivaci.pdf)
-* [prográmek](derivace.m)
+* Přečtěte si [teorii.](priklad_aproximace_derivaci.pdf)
+* Nastudujte [prográmek.](derivace.m)
