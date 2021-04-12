@@ -6,4 +6,4 @@
 * Řešení soustavy diferenciálních rovnic Runge-Kuttem: [teorie](priklad_ode_soustava.pdf), [program](rksoustava.m)
 * Další metody řešení ODR: [text](teorie_ode_dalsi_metody.pdf)
 
-DÚ: Do úvodního [programu](odeuvod.m) se třemi příklady metod implementujte ještě metodu Leap-Frog (z posledního [textu](teorie_ode_dalsi_metody.pdf) ).
+DÚ do 6.5.2021: Do úvodního [programu](odeuvod.m) se třemi příklady metod implementujte ještě metodu Leap-Frog (z posledního [textu](teorie_ode_dalsi_metody.pdf) ).
