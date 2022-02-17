@@ -30,5 +30,5 @@ Projděte si následující skripty:
 
 ![alt text](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/chyba.gif)
 
-Domácí úkol do 4.3.2021 (poslat na můj e-mail):
+Úkol do 28.2.2022 (poslat na můj e-mail):
 * Přepište [program](https://github.com/SebastianLorenz/NME1cv/blob/master/cv2/strojove_epsilon.cpp) odhadující strojové epsilon do MATLABu.
