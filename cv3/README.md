@@ -32,4 +32,4 @@ Metody řešení soustav lineárních rovnic Ax=b se dělí na:
 * Vztvořte si nějaké velké matice (cca 1000x1000, podle výkonu vašeho počítače) s náhodnými prvky.
 * Změřte rychlost našich ručně implementovaných funkcí a rychlost zabudovaných Matlabovských funkcí na těchto velkých maticích.
 * Vše vepisujte do dnešního [worklistu](cv3_worklist.m) a bohatě **komentujte** přímo v kódu (%), co jste testováním zjistili!
-* Jakými způsoby lze zefektivnit výpočet násobení matic?
+* ...
