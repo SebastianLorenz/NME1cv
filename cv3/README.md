@@ -28,8 +28,8 @@ Metody řešení soustav lineárních rovnic Ax=b se dělí na:
 
 Úkol do 7.3.2022:
 * Dnes jsme si ručně implementovali 4 algoritmy. Najděte k nim příslušné zabudované Matlabovské funkce (built-in MATLAB functions).
+* Prostudujte, jaký algoritmus běží v Matlabovských funkcích.
 * Najděte si, jakými příkazy lze v Matlabu měřit čas běhu funkce. (Hint: tic-toc)
 * Vztvořte si nějaké velké matice (cca 1000x1000, podle výkonu vašeho počítače) s náhodnými prvky.
 * Změřte rychlost našich ručně implementovaných funkcí a rychlost zabudovaných Matlabovských funkcí na těchto velkých maticích.
 * Vše vepisujte do dnešního [worklistu](cv3_worklist.m) a bohatě **komentujte** přímo v kódu (%), co jste testováním zjistili!
-* ...
