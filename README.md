@@ -30,7 +30,7 @@ Vše, co probereme my na cvičení, bude tady na GitHubu.
 
 Materiály k přednáškám jsou postupně zveřejňovány v MS Teams ve skupině B212-12NME1+12NMEA. 
 
-Cvičení probíhá prezenčně v místnosti **T105 každý čtvrtek 7:30**.
+Cvičení probíhá prezenčně v místnosti **T115 každý čtvrtek 9:30**.
 * Kdyby se chtěl někdo přidat k nám do skupiny, nechť se mi ozve na mail.
 * Kdyby chtěl někdo přejít do jiné skupiny - musí si to domluvit s příslušným cvičícím.
 * Přestupy možné pouze v prvním týdnu, v průběhu semestru už to nebude možné.
