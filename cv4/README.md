@@ -16,6 +16,6 @@ Na přednášce se probírají a je potřeba znát následující 4 metody:
 
 Skripty si projděte. Kdyby jste něčemu nerozuměli, tak se ptejte.
 
-Úkol do 18.3.2021:
+Úkol do 14.3.2021:
 * Popište mi (do mailu) vlastními slovy: Co zobrazuje vykreslený graf ve [skriptu](porovnani.m) porovnávající metody? Jaký z toho usuzujete závěr? Proč Superrelaxační metoda bez ideální volby omega dopadla hůře než obyčejný Gauss-Seidel?
 * Představte si, že neznáte předpis pro ideální volbu relaxačního faktoru *omega*. Napište skript (nebo stačí upravit [tento](porovnani.m)), který bude řešit soustavu Gauss-Seidelem + relaxační faktor. Ručně zvolte 6 různých hodnot omega a vykreslete prodobný graf jako ve skriptu porovnani.m, terý bude porovnávat výsledky pro různé *omega*.
