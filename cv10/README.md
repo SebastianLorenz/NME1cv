@@ -20,4 +20,4 @@ e) Metoda Monte Carlo
 * Teorie k metodě [zde](teorie_MC.pdf)
 * [Skript](MC_k_doplneni.m) pro výpočet integrálu 1D funkce
 
-DÚ do 25.4.2021: Upravte [skript](MC_k_doplneni.m) tak, aby dokázal počítat integrál z 2D funkcí a otestujte na 2 příkladech 2D funkcí (viz. komentáře ve skriptu)
+DÚ do 25.4.2022: Upravte [skript](MC_k_doplneni.m) tak, aby dokázal počítat integrál z 2D funkcí a otestujte na 2 příkladech 2D funkcí (viz. komentáře ve skriptu)
