@@ -38,10 +38,10 @@ Výuka bude probíhat v následující podobě:
 * Cvičení jsou koncipovány jako samostatná práce - každý samostatně postupuje podle zveřejněných pokynů. Cvičení lze tedy absolvovat i z domu.
 * Většinou půjde o opakování teorie, pochopení implementace numerických metod na ukázkovém kódu (dobře okomentovaném).
 * U každého cvičení bude zadán úkol - např. doplnit část kódu, napsat funkci, něco otestovat, ...
-  * Tento úkol je potřeba odevzdat nejpozději do následujícího pondělí po cvičení, ideálně ale přímo na cvičení.
+  * Tento úkol je potřeba odevzdat nejpozději do následujícího úterý po cvičení, ideálně ale přímo na cvičení.
   * Úkoly se odevzdávají na mail sebastian.lorenz@eli-beams.eu nebo přímo na cvičení.
 * Doporučuji projít si alespoň teoretickou část cvičení na začátku týdne doma. Fyzická cvičení budou spíše formou konzultace.
-* Pokud si cvičení projdete doma, pochopíte látku, poctivě vypracujete úkol a odevzdáte nejpozději do úterý 19:00, tak nemusíte přijít na cvičení.
+* Pokud si cvičení projdete doma, pochopíte látku, poctivě vypracujete úkol a odevzdáte nejpozději do úterý 19:00 před cvičením, tak nemusíte přijít na cvičení.
 
 Hodnocení úkolů a absence
 * Každé cvičení (respektive úkol) Vám budu hodnotit: poctivě vypracováno / splněno / absence
@@ -51,7 +51,7 @@ Hodnocení úkolů a absence
 
 Možné scénáře:
 * Na začátku týdne si projdu cvičení, všemu rozumím, poctivě vypracuji úkol (tak, že jsem si jistý jeho správností) a odevzdám do úterý 19:00 -> mám "poctivě vypracováno" a nemusím ve středu na cvičení
-* Na začátku týdne si projdu cvičení, něco mi není jasné nebo si nejsem jistý správností úkolu -> přijdu na cvičení, zkonzultuji a pokusím se na cvičení dodělat úkol tak abych obdržel "poctivě vypracováno" nebo "splněno" a měl klid. Úkol lze odevzdat i po cvičení, nejpozději následující pondělí v 19:00.
-* Na začátku týdne se mi nechce, tak si začnu procházet zadání cvičení až ve čtvrtek na hodině. -> Sice si z té hodiny moc neodnesu, ale mám zajištěné "splněno" a možná se mi podaří i "poctivě vypracováno".
-* Byl jsem na hodině ale úkol do následujícího pondělí neodevzdám. -> "absence".
+* Na začátku týdne si projdu cvičení, něco mi není jasné nebo si nejsem jistý správností úkolu -> přijdu na cvičení, zkonzultuji a pokusím se na cvičení dodělat úkol tak abych obdržel "poctivě vypracováno" nebo "splněno" a měl klid. Úkol lze odevzdat i po cvičení, nejpozději následující úterý v 19:00.
+* Na začátku týdne se mi nechce, tak si začnu procházet zadání cvičení až ve středu na hodině. -> Sice si z té hodiny moc neodnesu, ale mám zajištěné "splněno" a možná se mi podaří i "poctivě vypracováno".
+* Byl jsem na hodině ale úkol do následujícího úterý neodevzdám. -> "absence".
 * Neodevzdal jsem pocitvě vypracovaný úkol předem a nebyl jsem na hodině. -> "absence".
