@@ -6,7 +6,7 @@
 Úkol: V tomto cičení už úkol není.
 * Ověřte si zda máte poctivě splněné všechny úkoly ze cvičení. Pokud ano, máte automaticky nárok na zápočet. Pokud ne, bude vám přidělen velký zápočtový úkol. Ten je potřeba odevzdat do 31.8.2023.
 
-17.5.2023 (13. cvičení) bude konzultační.
+10.5.2023 (13. cvičení) bude konzultační.
 - dotazy ke všem cvičením a úkolům
 - instrukce k velkým zápočtovým úkolům
 - zápisy zápočtů do papírového indexu (pokud ještě existuje??)
