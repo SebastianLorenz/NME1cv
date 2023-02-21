@@ -5,7 +5,7 @@ Teorie viz. [přednáška](http://kfe.fjfi.cvut.cz/~limpouch/numet/nr.pdf)
 * Metoda tečen - [skript](tecny.m)
 * Müllerova metoda - [vysvětlení](teorie_Mullerova_metoda.pdf), [skript](muller.m)
 
-DÚ do 18.4.2022:
+DÚ do 18.4.2023:
 Vidíte, že hledání kořene je založeno na celkem jednoduchých principech. Zkuste si vymyslet nějkou vlastní originální metodu hledání kořene u funkcí s jednou proměnnou. Napište pro tuto metodu skript v Matlabu a sledujte její chování  (vykreslete vývoj řešení, vývoj chyby a spočítejte řád metody podobně jako u skriptů výše) alespoň na 3 různých příkladech funkcí. Krátce vaši metodu popište, zhodnotťe její výhody a nevýhody, porovnejte s výše zmíněnými metodami.
 Nápady: Zkuste například použít dělení intervalu v jiném poměru než 1:1 / průměrování více metod / interpolaci a na ní hledat kořen / nějaký relaxační faktor / atd.... Myslím, že vás určitě napadne něco originálního ;-)
 
