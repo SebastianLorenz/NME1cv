@@ -2,7 +2,7 @@
 Poznámky, návody a skripty ke cvičením NME1 na FJFI ČVUT v Praze  
 
 Cvičící: Ing. Sebastian Lorenz  
-Kontakt: **sebastian.lorenz@eli-beams.eu** / sebastianlorenz686@gmail.com / lorenseb@fjfi.cvut.cz  
+Kontakt: **sebastian.lorenz@eli-beams.eu** (občas vám odpovím z sebastianlorenz686@gmail.com)
 
 Přednášející: Ing. Pavel Váchal, Ph.D. / prof. Ing. Jiří Limpouch, CSc.  
 http://kfe.fjfi.cvut.cz/~vachal/ , http://www-troja.fjfi.cvut.cz/~limpouch/  
